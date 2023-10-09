@@ -9,8 +9,9 @@
 
 Olá, sou um profissional apaixonado por tecnologia que adora enfrentar desafios reais. Com mais de uma década de experiência na área, minha jornada começou há seis anos quando mergulhei no mundo do desenvolvimento de software. Desde então, tenho trabalhado incansavelmente para aprimorar minhas habilidades e criar soluções inovadoras. Este portfólio é um reflexo da minha jornada, destacando alguns dos projetos e conquistas que marcaram minha carreira até o momento.
 
+<br>
 
-#### Projeto reais com as linguagens
+##### PROJETOS REAIS COM AS LINGUAGENS
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
