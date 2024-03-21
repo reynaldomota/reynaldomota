@@ -4,6 +4,8 @@
     <a href="https://www.instagram.com/reynaldomota_/" target="_blank"><img align="center" alt="Rafa-Js" height="28" width="122" src="https://img.shields.io/badge/@ReynaldoMota_-3a464b?style=for-the-badge&logo=instagram&logoColor=orange"></a>
     <a href="https://www.linkedin.com/in/reynaldomota/" target="_blank"><img align="center" alt="Rafa-Js" height="28" width="122" src="https://img.shields.io/badge/reynaldomota-3a464b?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
     <a href="mailto:reynaldo.mota@gmail.com"><img align="center" alt="Rafa-Js" height="28" width="180" src="https://img.shields.io/badge/reynaldo.mota@gmail.com-3a464b?style=for-the-badge&logo=gmail&logoColor=red"></a>
+    <a href="https://wa.me/5562992056244?text=Ol%C3%A1%2C+tudo+bem%3F"><img align="center" alt="Rafa-Js" height="28" width="90" src="https://img.shields.io/badge/whatsapp-3a464b?style=for-the-badge&logo=whatsapp&logoColor=green"></a>
+
 </div>
 <br>
 
@@ -21,6 +23,3 @@ Olá, sou um profissional apaixonado por tecnologia que adora enfrentar desafios
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
-
-
-
