@@ -17,24 +17,22 @@
     </a>
 </div>
 
-<br/><br/>
+<br/>
 
-## 💡 Sobre mim
+### 💡 Sobre mim
 
-Sou desenvolvedor focado em criar soluções reais que geram resultado.
+Sou desenvolvedor focado em criar soluções reais que geram resultado.Tenho mais de uma década de experiência com tecnologia e nos últimos anos venho construindo **SaaS próprios**, principalmente voltados para:
 
-Tenho mais de uma década de experiência com tecnologia e nos últimos anos venho construindo **SaaS próprios**, principalmente voltados para:
-
-- 📊 Análise de dados empresariais  
-- 💰 Vendas e performance comercial  
-- 🔔 Notificações inteligentes (WhatsApp / Email)  
-- ⚙️ Integração com ERP Winthor (Oracle)  
+- 📊 Análise de dados empresariais
+- 💰 Vendas e performance comercial
+- 🔔 Notificações inteligentes (WhatsApp / Email)
+- ⚙️ Integração com ERP Winthor (Oracle)
 
 Hoje meu foco é **transformar problemas de empresas em produtos escaláveis**.
 
----
+<br/>
 
-## 🚀 Projetos em destaque
+### 🚀 Projetos em destaque
 
 - 🔔 **ShortNotify**  
   Envio de notificações via WhatsApp (API não oficial) com foco em automações e SaaS.
@@ -48,13 +46,13 @@ Hoje meu foco é **transformar problemas de empresas em produtos escaláveis**.
 - 📦 **Requisição / Cotação**  
   Plataforma para gestão de cotações e disputa de preços entre fornecedores.
 
----
+<br/><br/>
 
-## 🧠 Tecnologias que uso
+### 🧠 Tecnologias que uso
 
 <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
 
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="40" style="margin-left:20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -65,18 +63,18 @@ Hoje meu foco é **transformar problemas de empresas em produtos escaláveis**.
 
 </div>
 
----
+<br/><br/>
 
-## ⚡ O que você vai encontrar aqui
+### ⚡ O que você vai encontrar aqui
 
-- Projetos reais em produção  
-- Integrações com ERP e bancos Oracle  
-- Sistemas SaaS completos (frontend + backend + infra)  
-- Automações e ideias de produtos  
+- Projetos reais em produção
+- Integrações com ERP e bancos Oracle
+- Sistemas SaaS completos (frontend + backend + infra)
+- Automações e ideias de produtos
 
----
+<br/>
 
-## 📬 Vamos conversar?
+### 📬 Vamos conversar?
 
 Se você trabalha com Winthor, vendas ou quer automatizar processos na sua empresa, provavelmente consigo te ajudar.
 
